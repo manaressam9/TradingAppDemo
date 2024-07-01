@@ -3,7 +3,7 @@
    <application
         android:label="trading_demo"
         android:name="${applicationName}"
-        android:icon="@mipmap/ic_launcher">
+        android:icon="@mipmap/mudakhir_logo">
         <activity
             android:name=".MainActivity"
             android:exported="true"
