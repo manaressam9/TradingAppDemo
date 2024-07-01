@@ -1,4 +1,4 @@
-# flutter_application_1
+# trading_demo
 
 A new Flutter project.
 
