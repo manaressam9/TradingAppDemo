@@ -5,18 +5,18 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "trading_demo",
+            "name": "mudakhir",
             "request": "launch",
             "type": "dart"
         },
         {
-            "name": "trading_demo (profile mode)",
+            "name": "mudakhir (profile mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "profile"
         },
         {
-            "name": "trading_demo (release mode)",
+            "name": "mudakhir (release mode)",
             "request": "launch",
             "type": "dart",
             "flutterMode": "release"

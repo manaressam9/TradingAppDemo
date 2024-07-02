@@ -59,7 +59,8 @@ flutter:
   assets:
     - assets/images/mudakhirlogo_ar.png
     - assets/images/mudakhirlogo_en.png
-
+    - assets/images/mudakhir_ar_h.png
+    - assets/images/mudakhir_en_h.png
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware.
 
